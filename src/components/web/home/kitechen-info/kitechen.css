@@ -1,0 +1,33 @@
+.slider-bk .slick-arrow{
+    background: #fab005 !important;
+    border-radius: 30px;
+    height: 30px;
+    width: 30px;
+}
+.slider-bk .slick-arrow:hover{
+    background: red !important;
+}
+.furo{
+    height: 280px;
+}
+
+@media only screen and (min-width: 390px) and (max-width: 844px) {
+    .mmm{
+        margin-top: -25rem;
+    }
+    .furo{
+        height: 240px;
+    }
+    .cl-4{
+        margin-top: -305px;
+    }
+    .cl-5{
+        margin-top: -90px;
+    }
+    .cl-6{
+        margin-top: -90px;
+    }
+    .cl-7{
+        margin-top: -255px;
+    }
+}
